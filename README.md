@@ -1,16 +1,18 @@
-## Hi there 👋
+### 👋 Hey there! I’m **Rania**  
 
-<!--
-**BenadjalRania/BenadjalRania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Engineering** student passionate about **AI, Machine Learning, Web Development, and Flutter**. My journey blends **research, software development, and technology leadership**, and I love turning ideas into impactful projects! 🚀  
 
-Here are some ideas to get you started:
+💡 **What I Do:**  
+- 🔹 **AI & ML** – Building models, analyzing data, and solving problems with intelligence.  
+- 🔹 **Web Development** – Crafting full-stack applications with **Flask, SQL, JavaScript, and modern frameworks**.  
+- 🔹 **Flutter (Frontend Development)** – Creating sleek, interactive, and user-friendly UI designs. 
+- 🔹 **Digital Systems & VHDL** – Exploring FPGA, FSM, and hardware programming.  
+- 🔹 **Tech Leadership** – Founder of **Technos.ps**, connecting tech enthusiasts and driving innovation.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Current Projects:**  
+- 🚀 [**Noto**](https://github.com/your-noto-repo) – A note-taking web app built with Flask.  
+- 📊 Researching **data science applications** and working on exciting tech challenges.  
+
+📚 Always learning, coding, and exploring new ideas! Let’s connect and innovate together! ✨  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenadjalRania&show_icons=true&theme=radical)
