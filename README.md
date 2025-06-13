@@ -26,8 +26,4 @@ I'm a **Computer Engineering** student passionate about **AI, Machine Learning, 
 <a href="https://github.com/BenadjalRania" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenadjalRania&langs_count=10&theme=radical&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-
----
-[![](https://visitcount.itsvg.in/api?id=BenadjalRania&icon=4&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
