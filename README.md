@@ -2,7 +2,7 @@
 
 I'm a Computer Engineering student passionate about Artificial Intelligence, Machine Learning, Web Development, and Flutter. My work combines research, software development, and technology leadership.
 
-## 🔧 Areas of Focus
+## 💻 Areas of Focus
 
 - **AI & Machine Learning**  
   Building models, analyzing data, and exploring intelligent systems.
