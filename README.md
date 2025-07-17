@@ -1,19 +1,24 @@
-### 👋 Hey there! I’m **Rania**  
+# Hi, I’m Rania Benadjal
 
-I'm a **Computer Engineering** student passionate about **AI, Machine Learning, Web Development, and Flutter**. My journey blends **research, software development, and technology leadership**, and I love turning ideas into impactful projects! 🚀  
+I'm a Computer Engineering student passionate about Artificial Intelligence, Machine Learning, Web Development, and Flutter. My work combines research, software development, and technology leadership.
 
-💡 **What I Do:**  
-- **AI & ML** – Building models, analyzing data.  
-- **Web Development** – Crafting full-stack applications with **Flask, Django, SQL, JavaScript, and modern frameworks**.  
-- **Flutter (Frontend Development)** – Creating sleek, interactive, and user-friendly UI designs. 
-- **Digital Systems & VHDL** – Exploring FPGA, FSM, and hardware programming.  
-- **Tech Leadership** – Founder of **Technos.ps**, connecting tech enthusiasts and driving innovation.  
+## 🔧 Areas of Focus
 
-📌 **Current Projects:**  
-- 🚀 [**Noto**](https://github.com/your-noto-repo) – A note-taking web app built with Flask.  
-- 📊 Researching **data science applications** and working on exciting tech challenges.  
+- **AI & Machine Learning**  
+  Building models, analyzing data, and exploring intelligent systems.
 
-📚 Always learning, coding, and exploring new ideas! ✨ 
+- **Web Development**  
+  Full-stack development using Flask, Django, SQL, JavaScript, and modern frameworks.
+
+- **Flutter Development**  
+  Designing responsive, interactive, and user-friendly interfaces.
+
+- **Digital Systems & VHDL**  
+  Working with FPGA, finite state machines, and hardware-level programming.
+
+- **Technology Leadership**  
+  Founder of **Technos.ps**, a student-led tech initiative fostering collaboration and innovation.
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:benadjelrania@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rania-benadjal)  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/benadjalrania_15243) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Rania__bndj) 
